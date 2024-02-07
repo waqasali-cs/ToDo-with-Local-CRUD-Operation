@@ -1,4 +1,4 @@
-Certainly! Here are the steps to download a repository, open it in Visual Studio Code, and run a React + Vite project along with JSON Server:
+Steps to download a repository, open it in Visual Studio Code, and run a React + Vite project along with JSON Server:
 
 1. **Download Repository:**
    - Clone or download the repository to your local PC. You can use the following command in your terminal:
