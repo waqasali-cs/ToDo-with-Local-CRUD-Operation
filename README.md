@@ -37,12 +37,4 @@ Certainly! Here are the steps to download a repository, open it in Visual Studio
 7. **Stopping the Servers:**
    - To stop the Vite development server and JSON Server, you can use `Ctrl + C` in the respective terminal windows.
 
-8. **Readme:**
-   - Create a `README.md` file in the project root and include the following bullet points:
-     - Description of the project.
-     - Installation instructions.
-     - How to run the project.
-     - Any additional configurations or dependencies.
-     - Any other relevant information about the project.
-
 Remember to customize the commands and URLs based on the specific details of the repository you are working with.
